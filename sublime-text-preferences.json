@@ -1,0 +1,23 @@
+{
+    "caret_extra_width": 1,
+    "caret_style": "phase",
+    "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+    "draw_minimap_border": true,
+    "ensure_newline_at_eof_on_save": true,
+    "font_face": "Source Code Pro",
+    "font_options":
+    [
+        "no_round"
+    ],
+    "font_size": 15,
+    "highlight_line": true,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "line_padding_bottom": 5,
+    "line_padding_top": 5,
+    "theme": "Material-Theme.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true
+}
